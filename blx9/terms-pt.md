@@ -1,0 +1,48 @@
+# Termos de Serviço
+
+Localizar+ · Última atualização: 17 de novembro de 2026
+
+## 1. Aceitação
+
+Ao instalar ou usar o Localizar+ (o «App»), você concorda com estes Termos. Se não concordar, não use o App.
+
+## 2. Licença
+
+Concedemos uma licença pessoal, não transferível e não exclusiva para usar o App em dispositivos Apple que você possua ou controle, conforme os Termos da App Store. Você não pode copiar, revender, fazer engenharia reversa nem redistribuir o App, exceto quando a lei permitir.
+
+## 3. Seu número de compartilhamento
+
+O App cria um número aleatório de 9 dígitos no seu dispositivo; é sua única identidade no App. Não há conta, senha ou recuperação entre dispositivos, portanto mantenha o número em sigilo. Você é responsável pelas ações realizadas com ele. Não se passe por outra pessoa nem use número que não seja seu.
+
+## 4. Escopo e limites do compartilhamento
+
+- O compartilhamento é manual, de um registro por vez, e exige confirmação.
+- O App não é um rastreador ao vivo e não guarda histórico de localização.
+- Os registros expiram no App após uma hora; não garantimos entrega, disponibilidade, exatidão nem o momento da exclusão.
+- Não use o App para emergências, decisões médicas, segurança de navegação ou supervisão de crianças e pessoas vulneráveis. Use dispositivos de segurança e os serviços de emergência locais.
+
+## 5. Uso aceitável
+
+Você concorda em não: rastrear ou monitorar alguém sem o conhecimento e consentimento dessa pessoa; assediar, ameaçar, perseguir ou coagir; usar o App onde o compartilhamento de localização seja ilegal; enviar dados falsos; sondar, sobrecarregar ou contornar o serviço, o bucket ou as credenciais; extrair dados de outros usuários; ou redistribuir o App comercialmente. Podemos suspender o acesso em caso de violação.
+
+## 6. Anúncios e terceiros
+
+A versão gratuita exibe anúncios do Google AdMob. O App também usa serviços da Apple e o open-elevation.com. Seus termos e políticas de privacidade se aplicam às respectivas partes.
+
+## 7. Compras no app
+
+O App oferece uma compra única, não consumível e vitalícia («Localização compartilhada com usos ilimitados»). O valor é cobrado no seu Apple ID e processado pela Apple; os preços são exibidos antes da compra. Reembolsos são tratados pela Apple conforme sua política. Você pode restaurar a compra em um dispositivo conectado ao mesmo Apple ID. Bloquear, a lista de permitidos, retirar o compartilhamento e excluir a identidade nunca exigem compra.
+
+## 8. Disponibilidade e alterações
+
+Podemos alterar, suspender ou descontinuar recursos e lançar atualizações. Alguns recursos dependem de redes e serviços de terceiros que não controlamos. O App é oferecido gratuitamente «conforme disponível».
+
+## 9. Isenções e responsabilidade
+
+Na máxima extensão permitida por lei, o App é fornecido «no estado em que se encontra», sem garantias de comercialização, adequação a um propósito específico ou não violação. Não nos responsabilizamos por perdas indiretas ou consequentes, nem por perda de dados, lucros ou reputação, decorrentes do uso do App. Quando a responsabilidade não puder ser excluída, limita-se ao valor pago pelo App nos doze meses anteriores à reclamação.
+
+## 10. Lei aplicável e contato
+
+Estes Termos são regidos pelas leis da República Popular da China e as disputas ficam sujeitas aos tribunais competentes do domicílio do desenvolvedor, sem prejuízo das normas obrigatórias de proteção ao consumidor do seu país de residência. Contato: https://github.com/xxlcmb9/doc/issues.
+
+Suporte: https://github.com/xxlcmb9/doc/issues
